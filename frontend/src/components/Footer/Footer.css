@@ -30,6 +30,9 @@
 .footer-social-icons img{
     width: 40px;
 }
+.zygote{
+    width: 175px;
+}
 .footer-social-icons{
     display: flex;
     gap: 15px;
